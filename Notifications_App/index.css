@@ -1,0 +1,47 @@
+/* Write your code here. */
+.notification-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.notification {
+  width: 45vh;
+  height: 6vh;
+  display: flex;
+  flex-direction: row;
+  border-radius: 5px;
+  padding-left: 2%;
+  margin-top: 3%;
+  font-family: Roboto;
+  color: #ffffff;
+}
+
+.symbol {
+  margin-right: 20px;
+  height: 20px;
+
+}
+
+.heading {
+  color: #0f172a;
+  font-family: Roboto;
+}
+
+.not1 {
+  background-color: #0b69ff;
+}
+
+.not2 {
+  background-color: #2dca73;
+}
+
+.not3 {
+  background-color: #ffb800;
+}
+
+.not4 {
+  background-color: #ff0b37;
+}
