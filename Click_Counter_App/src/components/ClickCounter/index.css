@@ -1,0 +1,39 @@
+.text {
+  font-family: Roboto;
+  text-align: center;
+}
+body {
+  background-color: #f1f5f8;
+}
+.counter {
+  color: #c20a72;
+}
+
+.heading {
+  font-size: 400%;
+}
+.para {
+  font-size: x-large;
+}
+
+.heading,
+.para {
+  color: #2d3a35;
+}
+
+.btn {
+  color: #ffffff;
+  background-color: #007bff;
+  width: 100px;
+  height: 30px;
+  border: none;
+  border-radius: 5px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
