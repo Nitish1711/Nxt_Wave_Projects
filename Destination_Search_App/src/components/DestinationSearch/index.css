@@ -1,0 +1,50 @@
+.destination-search {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.destination-search input {
+  font-family: 'Open Sans';
+}
+
+.heading {
+  color: #252627;
+}
+
+.ul {
+  padding: 0 5% 2% 5%;
+  width: 45%;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.input-text {
+  background-color: #f1f5f9;
+  font-family: Open Sans;
+  border: none;
+  border-radius: 5px;
+  align-items: center;
+  width: 200px;
+  height: 40px;
+  padding: 10px;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/destinations-search-icon-img.png');
+  background-repeat: no-repeat;
+  background-position-x: 95%;
+  background-position-y: 50%;
+  background-size: 4vh;
+}
+
+.input-text:focus {
+  outline: none;
+}
+
+.input-text::-webkit-search-cancel-button {
+  position: absolute;
+  left: 75%;
+}
