@@ -1,0 +1,20 @@
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.arrow-button {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/diagonal-arrow-left-up.png');
+  height: 25px;
+  width: 25px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #ffffff;
+  border: none;
+}
+
+.para {
+  color: #475569;
+  font-family: Roboto;
+}
