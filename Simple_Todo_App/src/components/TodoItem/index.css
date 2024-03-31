@@ -1,0 +1,21 @@
+.box {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.delete-button {
+  height: 30px;
+  width: 100px;
+  border: 2px solid #ff0b37;
+  background-color: #ffffff;
+  color: #ff0b37;
+  border-radius: 5px;
+  margin-left: auto;
+}
+.para {
+  font-family: 'Roboto';
+  color: #000000;
+}
