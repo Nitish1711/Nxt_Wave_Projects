@@ -1,0 +1,16 @@
+.li {
+  list-style: none;
+  width: 47%;
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+
+.btn {
+  height: 140%;
+  width: 100%;
+  font-size: 120%;
+  color: #d4d2db;
+  border: 2px solid #d4d2db;
+  border-radius: 5px;
+  background-color: #585076;
+}
