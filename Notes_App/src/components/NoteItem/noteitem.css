@@ -1,0 +1,26 @@
+.item {
+  width: 30%;
+  border: 1px solid #aab8c8;
+  height: auto;
+  border-radius: 10px;
+  text-align: left;
+  padding: 3% 2% 3% 2%;
+  margin-right: 3%;
+  margin-top: 3%;
+}
+
+.heading1 {
+  color: #475569;
+  padding: 0;
+  margin: 0;
+  font-size: x-large;
+  margin-bottom: 5%;
+  font-family: Roboto;
+}
+
+.para1 {
+  color: #334155;
+  padding: 0;
+  margin: 0;
+  font-family: Roboto;
+}
