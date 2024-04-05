@@ -1,0 +1,28 @@
+.faq-item {
+  border: 1px solid #d7dae6;
+  list-style: none;
+  border-radius: 10px;
+  padding: 1% 2% 1% 2%;
+  margin-top: 2%;
+}
+
+.para {
+  border-top: 1px solid #d7dae6;
+  color: #9aa5b1;
+  margin-top: 0;
+  padding-top: 1%;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.btn {
+  margin-left: auto;
+}
+
+.qt {
+  color: #52606d;
+}
